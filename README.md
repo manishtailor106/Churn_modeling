@@ -1,1 +1,1 @@
-# Churn_modeling
+# Project-7-minor-
